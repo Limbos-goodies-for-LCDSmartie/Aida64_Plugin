@@ -1,0 +1,6 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\obj\x64\Release\aida.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\obj\x64\Release\aida.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\bin\x64\Release\aida.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\bin\x64\Release\aida.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\obj\x64\Release\aida.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\aida\aida\obj\x64\Release\aida.xml

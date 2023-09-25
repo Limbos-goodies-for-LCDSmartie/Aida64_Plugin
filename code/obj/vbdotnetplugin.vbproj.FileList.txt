@@ -1,0 +1,5 @@
+bin\vbdotnetplugin.dll
+bin\vbdotnetplugin.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\vbdotnetplugin.dll
+obj\Release\vbdotnetplugin.xml

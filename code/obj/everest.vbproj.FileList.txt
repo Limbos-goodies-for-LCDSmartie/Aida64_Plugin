@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\everest.dll
+bin\everest.xml
+obj\Release\everest.dll
+obj\Release\everest.xml
